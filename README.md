@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/o_o.umesh" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/pupuql123@gmail.com" target="_blank">
