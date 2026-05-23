@@ -1,5 +1,5 @@
 <a href="https://github.com/umeshkumarsahoo">
-  <img src="./banner_umesh.png" width="100%" alt="Umesh Kumar Sahoo Banner"/>
+  <img src="./banner_umesh_cropped.png" width="100%" alt="Umesh Kumar Sahoo Banner"/>
 </a>
 
 <div align="center">
