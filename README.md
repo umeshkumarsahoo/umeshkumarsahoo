@@ -19,7 +19,7 @@
 
 <div align="justify">
   <h3>Hey there! I'm Umesh 👋</h3>
-  I'm a 3rd year CSE student from India, passionate about building full-stack web apps and exploring the world of machine learning. I love turning ideas into real products — from luxury e-commerce platforms to ML-powered teaching assistants. When I'm not pushing commits, I'm grinding LeetCode or binge-watching tech videos at 2x speed.
+  I'm a 4th year CSE student from India, passionate about building full-stack web apps and exploring the world of machine learning. I love turning ideas into real products — from luxury e-commerce platforms to ML-powered teaching assistants. When I'm not pushing commits, I'm grinding LeetCode or binge-watching tech videos at 2x speed.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
