@@ -1,5 +1,5 @@
 <a href="https://github.com/umeshkumarsahoo">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Umesh Kumar Sahoo Banner"/>
+  <img src="./banner_umesh.png" width="100%" alt="Umesh Kumar Sahoo Banner"/>
 </a>
 
 <div align="center">
