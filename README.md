@@ -50,7 +50,7 @@
   &nbsp;
   <a href="mailto:pupuql123@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
-  <a href="https://instagram.com/um3sh._"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/stillumesh"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <br>
