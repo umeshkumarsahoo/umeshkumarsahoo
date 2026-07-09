@@ -117,6 +117,19 @@
         <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
       </td>
     </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Skills</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Full--Stack%20Development-000000?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white">
+        <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+        <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white">
+        <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=white">
+      </td>
+    </tr>
   </table>
 </div>
 <br>
